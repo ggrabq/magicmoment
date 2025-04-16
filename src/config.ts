@@ -2,7 +2,7 @@ import { assets } from "$app/paths";
 
 export const config = {
 	mainPage: {
-		heading: "Hello!",
+		heading: "Привет!",
 		invitation: "Will you go on a date with me this week? 👉👈🥺",
 		yesText: "Yes",
 		noText: "No",
